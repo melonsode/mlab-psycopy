@@ -32,5 +32,9 @@
  - github に公開鍵を登録
  - .git/config のremote origin を修正する
 
-
+## その他
+ - テキストエディタを手に入れる
+ - PsychoPyの説明が必要と、できたプログラムを共有できるか確認
+ - githubで共有ができるか再度確認（forkではなくcloneでどこまでいけるか）
+ - branchを切らずにいけるか？branchを使った方が便利か？
 
