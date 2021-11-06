@@ -45,7 +45,7 @@ with t and o
  - デフォルトの場所を表す特殊記号　~（チルダ） 
 
 ## マークダウン記法
- - https://gist.github.com/mignonstyle/083c9e1651d7734f84c99b8cf49d57fa 
+ - https://gist.github.com/mignonstyle/083c9e1651d7734f84c99b8cf49d57fa
 
 ## gitの基本的なコマンド
  - git clone <リポジトリURL>
@@ -53,9 +53,16 @@ with t and o
  - git commit -m "comment"
  - git push
  - git pull = git fetch + git merge
+ - https://qiita.com/wann/items/688bc17460a457104d7d
 
+## 参加者に記事を書いてもらいたい
+ - 参加した人の理解を深め、これからの人への知識の共有のためにドキュメントを描いて欲しい
+ - ここにかく
+ - Qiitaや個人ブログ等に書く
 
-
-
+## セキュリティ問題などをどうするか
+ - githubは思ったより個人情報的なものが漏れる
+ - 気をつければ大丈夫なのか？
+ - プライベートリポジトリに移行するのがいいのか？
 
 
